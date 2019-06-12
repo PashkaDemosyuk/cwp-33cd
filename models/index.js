@@ -28,7 +28,6 @@ module.exports = () => {
     };
 
     const sequelize = new Sequelize(config.db.name, config.db.user, config.db.password, options);
-
     const Repo = require('./repo')(Sequelize, sequelize);
     const Commit = require('./commit')(Sequelize, sequelize);
 
