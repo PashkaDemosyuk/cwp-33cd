@@ -16,7 +16,7 @@ module.exports = () => {
     console.log(dbConfig);
     const options = {
         host: config.db.host,
-        dialect: 'mysql',
+        dialect: "mysql",
         logging: false,
         define: {
             defaultScope: {
