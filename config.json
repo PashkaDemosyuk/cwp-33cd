@@ -6,11 +6,11 @@
     "password": "1111"
     },
     "production": {
-      "name": "d583ic9gudvtl0",
-      "user": "gxevnydjswfpoq",
-      "pass": "1ed4199ce5b4e2ec8ada4bcdbb1a84fa83106baf2a38adcab163f82aaa5d397f",
+      "name": "df0rpup81lm9eo",
+      "user": "ivggwslmhncpoa",
+      "pass": "a7c8e6b39a8f05397c002fbbded13a97cc5a596fa7e46bacfeba9e23c41a48b7",
       "options": {
-        "host": "ec2-184-73-210-189.compute-1.amazonaws.com",
+        "host": "ec2-79-125-126-205.eu-west-1.compute.amazonaws.com",
         "port": 5432,
         "dialect": "postgres",
         "define": {
