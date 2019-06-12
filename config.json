@@ -21,7 +21,7 @@
         },
         "logging": false,
         "dialectOptions": {
-          "ssl": true
+          "ssl": false
         }
       }
     }
